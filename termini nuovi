@@ -1,2 +1,6 @@
 Slicing: meccanismo attraverso il quale requperiamo una parte della lista in python
 list comprehension: costruiamo una lista scrivendo nelle parentesi quadre le istruzione per generare i singoli elementi della lista
+Parametro formale: definizione funzione
+Parametro attuale: definizione programmma  es: elementi((input('inserisci: '))) for i in range(0,4)]
+La funzione deve avere una vita propria, senza print all'interno, per cosi utilizzarla in altri programmi
+Map: come se fosse un for per tutti gli elementi della lista, prende ogni elemento della lista, applica la funzione per ogni elemento della lista(secondo parametro), una funzione
